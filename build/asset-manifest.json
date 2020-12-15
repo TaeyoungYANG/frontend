@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f2a7bea9.chunk.js",
+    "main.js.map": "/static/js/main.f2a7bea9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b25e5425.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b25e5425.js.map",
+    "static/js/2.a23328da.chunk.js": "/static/js/2.a23328da.chunk.js",
+    "static/js/2.a23328da.chunk.js.map": "/static/js/2.a23328da.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1ebab852266e482926b2ec2e153de240.js": "/precache-manifest.1ebab852266e482926b2ec2e153de240.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.a23328da.chunk.js.LICENSE.txt": "/static/js/2.a23328da.chunk.js.LICENSE.txt",
+    "static/media/냉장고스몰.png": "/static/media/냉장고스몰.28a0058c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b25e5425.js",
+    "static/js/2.a23328da.chunk.js",
+    "static/js/main.f2a7bea9.chunk.js"
+  ]
+}
