@@ -17,7 +17,7 @@ import {delUserInfo} from 'store/actions/index'
             <Grid  container>
                 <Grid item xs={8} md={10}>
                     <Button component = {Link} to='/Main'>
-                       FoodAll {/* About */}
+                       9 to 5 {/* About */}
                     </Button> 
                 </Grid>
                 <Grid item xs={4} md={2}>
